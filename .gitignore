@@ -1,0 +1,11 @@
+
+step04_miniProject/step04_miniProject/.settings/org.eclipse.jdt.core.prefs
+step04_miniProject/step04_miniProject/.project
+step04_miniProject/step04_miniProject/.classpath
+step04_miniProject/.project
+step04_miniProject/.classpath
+step04_miniProject/step04_miniProject/bin/step04/controller/Controller.class
+step04_miniProject/step04_miniProject/bin/step04/model/domain/StudentDTO.class
+step04_miniProject/step04_miniProject/bin/step04/model/Model.class
+step04_miniProject/step04_miniProject/bin/step04/view/EndView.class
+step04_miniProject/step04_miniProject/bin/step04/view/StartView.class
